@@ -1,4 +1,3 @@
 optConfig:
   disableRepoOverride: true
-  optInRepos:
-  - ristretto
+  optOutStrategy: true

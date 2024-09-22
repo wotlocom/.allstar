@@ -11,17 +11,18 @@ Allstar is configured in opt-in. [See here for the list of enabled repos](allsta
 free to submit a PR to enable/disable repos.
 
 ## Policy Configuration
+
 These are the expected settings to be in compliance
 
 ### [Branch Protection](branch_protection.yaml)
 
-| | |
-| - | - |
-| Branches enforced | default |
-| Require approval | yes |
-| Approvals required | 1 |
+|                       |              |
+| --------------------- | ------------ |
+| Branches enforced     | default      |
+| Require approval      | yes          |
+| Approvals required    | 1            |
 | Dismiss stale reviews | not required |
-| Block force push | yes |
+| Block force push      | yes          |
 
 ### [Binary Artifacts](binary_artifacts.yaml)
 

@@ -1,6 +1,6 @@
 # Security Policy
 
-If you see a vulnerability with allstar, report it to the allstar repository: https://github.com/ossf/allstar
+If you see a vulnerability with allstar, report it to the [allstar repository](https://github.com/ossf/allstar).
 
 If you see an issue with the configuration of allstar for the Wotlocom organization:
 

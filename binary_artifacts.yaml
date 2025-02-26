@@ -1,7 +1,4 @@
 optConfig:
   optOutStrategy: true
-  disableRepoOverride: false
-  optOutRepos:
-  # Addresses Alltstar complaints for Gradle wrapper in GoogleContainerTools/skaffold#7204
-  - skaffold
+  disableRepoOverride: true
 action: issue

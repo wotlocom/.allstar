@@ -1,4 +1,4 @@
-# Allstar configuration for GoogleContainerTools
+# Allstar configuration for thomasleplus
 
 [Allstar](https://github.com/ossf/allstar) is a security-policy GitHubApp. It is
 installed on this org, and this repository contains the configuration for that app. It

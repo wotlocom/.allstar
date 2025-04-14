@@ -31,7 +31,7 @@ permissions:
 
 jobs:
   scan:
-    uses: "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@ba0b4d196d231340e0ae94ae00933c8be0984192" # v1.7.4
+    uses: "google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@6fc714450122bda9d00e4ad5d639ad6a39eedb1f" # v2.0.1
     with:
       # Example of specifying custom arguments
       scan-args: |-

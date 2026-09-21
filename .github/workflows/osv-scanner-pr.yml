@@ -30,6 +30,7 @@ jobs:
       actions: read
     uses: "google/osv-scanner-action/.github/workflows/osv-scanner-reusable-pr.yml@8deb546fdb875b9996d27d4950be7312dac076a1" # v2.5.0
     with:
+      export-results: true
       fail-on-vuln: false
   check:
     runs-on: ubuntu-latest
